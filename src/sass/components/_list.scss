@@ -28,6 +28,7 @@ table.list {
     background-color: $body-bg;
     color: $gray-700;
     vertical-align: bottom;
+    white-space: nowrap;
 
     a {
       color: $gray-900;
